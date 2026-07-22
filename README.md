@@ -144,13 +144,6 @@ Student Grade Calculator • Number Guessing Game • Calculator • Pattern Pro
 </p>
 
 ---
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TAufeeq6T5&theme=tokyonight"/>
-
-</p>
-
 ---
 
 <h3 align="center">
