@@ -11,11 +11,6 @@ Java Developer • DSA Learner • Computer Science Student • Open Source Enth
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Strong+Foundations+in+Software+Development;Java+Developer;Learning+Data+Structures+%26+Algorithms;Exploring+Backend+Development;Always+Learning+Something+New"/>
 
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=TAufeeq6T5&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
-</p>
-
 ---
 
 # 💫 About Me
@@ -99,26 +94,6 @@ Java Developer • DSA Learner • Computer Science Student • Open Source Enth
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=TAufeeq6T5&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TAufeeq6T5&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TAufeeq6T5&theme=tokyonight&no-frame=true&margin-w=12&row=1"/>
 
 </p>
 
